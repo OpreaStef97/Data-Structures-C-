@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "limits": "cpp",
+    "iostream": "cpp",
+    "functional": "cpp",
+    "iomanip": "cpp",
+    "unordered_map": "cpp",
+    "ostream": "cpp",
+    "string": "cpp",
+    "cassert": "cpp",
+    "random": "cpp",
+    "new": "cpp",
+    "array": "cpp"
+}
+}

@@ -1,0 +1,13 @@
+{
+    "": {
+        "prefix": "forauto",
+        "body": [
+          "for(const auto& x : y) {",
+          "",
+          "}",
+          "  ",
+          ""
+        ],
+        "description": ""
+      }
+}
